@@ -4,8 +4,6 @@ from PIL import Image, ImageTk
 import ctypes
 import requests
 import os
-
-
 class main(tk.Tk):
     def __init__(self):
         super().__init__()
